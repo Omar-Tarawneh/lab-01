@@ -1,0 +1,27 @@
+.box-e, .box-f{
+    float: left;
+    vertical-align: middle;
+    line-height: 250px;
+}
+.box-h, .box-g{
+    float: left;
+    vertical-align: middle;
+    line-height: 250px;
+}
+.box-i{
+    clear: both;
+    vertical-align: middle;
+    line-height: 80px ;
+}
+.box-a {
+    vertical-align: middle;
+    line-height: 75px;
+}
+.box-b {
+    vertical-align: middle;
+    line-height: 150px;
+}
+.box-c, .box-d {
+    vertical-align: middle;
+    line-height: 125px;
+}
