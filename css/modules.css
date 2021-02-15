@@ -1,0 +1,58 @@
+@media (min-width: 768px){
+    body{
+        height: 800px;
+        width: 1000px;
+        margin: auto;
+    }
+    main{
+        height: 700px;
+        width: 96.2%;
+        margin:  5% auto;
+        padding: auto;
+    }
+    div{
+        display: inline-block;
+    }
+    .box-a{
+        height: 14.28571428571429%;
+        width: 100%;
+        line-height: 100px;
+        
+    }
+    .box-b{
+        height:85.71428571428571%;
+        width: 20.8333333333%;
+        float: left;
+        line-height: 600px;
+    }
+    .first-box{
+        height: 28.57142857142857%;
+        width: 79.1666666667%;
+        float: right;
+    }
+    .box-c, .box-d{
+        width: 50%;
+        height: 100%;
+        float: left;
+        line-height: 200px;
+    }
+    .second-box{
+        float: right;
+        height: 35.71428571428571% ;
+        width: 79.1666666667%;
+    }
+    .box-e, .box-f, .box-g, .box-h{
+        width: 25%;
+        height: 100%;
+        float: left;
+    }
+    .box-i{
+        clear: initial;
+        float: right;
+        height: 21.42857142857143%;
+        width: 79.1666666667%;
+        line-height: 150px;
+    }
+
+
+}
